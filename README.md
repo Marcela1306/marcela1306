@@ -27,11 +27,11 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcela1306&show_icons=true&locale=en&layout=compact" alt="marcela1306" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela1306&layout=compact" alt="marcela1306" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcela1306&show_icons=true&locale=en" alt="marcela1306" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcela1306&show_icons=true" alt="marcela1306" />
 </p>
 
 <p align="center">
