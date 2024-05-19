@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola 👋, soy Marcela Alvarez!</h1>
 <h3 align="center">Estudiante de Ingeniería en Computación.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Java, Git, Django, Wordpress, xammp...**
+- 🌱 Actualmente estoy aprendiendo **Java, Wordpress, xammp...**
 
 - 📫 Puedes contactarme en **agmarcela1306@gmail.com**
 
