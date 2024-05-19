@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola 👋, soy Marcela Alvarez!</h1>
-<h3 align="center">Estudiante de Ingeniería en Computación apasionada por la vida.</h3>
+<h3 align="center">Estudiante de Ingeniería en Computación.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Excel, Git, C, Inglés, Django...**
+- 🌱 Actualmente estoy aprendiendo **Java, Git, Django, Wordpress, xammp...**
 
 - 📫 Puedes contactarme en **agmarcela1306@gmail.com**
 
