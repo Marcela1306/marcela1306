@@ -1,11 +1,11 @@
 <h1 align="center">¡Hola 👋, soy Marcela Alvarez!</h1>
 <h3 align="center">Estudiante de Ingeniería en Computación.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Java, Wordpress, xammp...**
+- 🌱 Actualmente estoy aprendiendo **JavaScript, Wordpress, Unity...**
 
 - 📫 Puedes contactarme en **agmarcela1306@gmail.com**
 
-- ⚡ Dato curioso: **Creo que tengo una mezcla entre ser introvertida y extrovertida. ¡Seguro que nos llevaremos bien!**
+- ⚡ Dato curioso: **Tengo una mezcla entre ser introvertida y extrovertida. ¡Seguro que nos llevaremos bien!**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
