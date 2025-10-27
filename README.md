@@ -24,16 +24,55 @@
 
 <h3 align="center" style="color:#2a9d8f;">Habilidades y Herramientas</h3>
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/></a>
-  <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/></a>
-  <a href="https://www.blender.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Blender_logo_no_text.svg" width="50" height="50"/></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/></a>
-  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50"/></a>
-  <a href="https://www.chartjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Chart.js_logo.svg" width="50" height="50"/></a>
+  <!-- Python -->
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  </a>
+
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+  </a>
+
+  <!-- CSS3 -->
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  </a>
+
+  <!-- HTML5 -->
+  <a href="https://www.w3.org/html/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://www.javascript.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  </a>
+
+  <!-- Blender -->
+  <a href="https://www.blender.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  </a>
+
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50"/>
+  </a>
+
+  <!-- Chart.js -->
+  <a href="https://www.chartjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="50" height="50"/>
+  </a>
 </p>
 
 <h3 align="center" style="color:#2a9d8f;">Conectemos</h3>
