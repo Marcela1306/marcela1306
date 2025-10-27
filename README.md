@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="3D animation" width="320" style="border-radius:15px; box-shadow: 0 12px 25px rgba(0,0,0,0.3); transform: rotateY(-5deg);"/>
 </p>
 
-<h3 align="center" style="color:#2a9d8f;">Proyectos Destacados 🚀</h3>
+<h3 align="center" style="color:#2a9d8f;">Proyectos</h3>
 
 <p align="center" style="color:#264653; font-size:1.1em;">
   🚜 <strong>Livestock Manager</strong> – Sistema completo para gestionar ganado bovino: vacunas, partos y registros completos. Django + SQL.<br>
@@ -63,7 +63,7 @@
   </a>
 </p>
 
-<h3 align="center" style="color:#2a9d8f;">Conectemos 🌐</h3>
+<h3 align="center" style="color:#2a9d8f;">Conectemos</h3>
 <p align="center">
   <a href="https://linkedin.com/in/marcela-álvarez-663ba9231" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" style="margin:0 15px; transition: transform 0.3s;"/>
@@ -73,7 +73,7 @@
   </a>
 </p>
 
-<h3 align="center" style="color:#2a9d8f;">Mis estadísticas 📊</h3>
+<h3 align="center" style="color:#2a9d8f;">Mis estadísticas</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela1306&layout=compact&theme=radical" alt="Top Languages" style="margin:10px; border-radius:10px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=marcela1306&show_icons=true&theme=radical" alt="GitHub Stats" style="margin:10px; border-radius:10px;"/>
