@@ -33,10 +33,7 @@ Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmen
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcela-álvarez-663ba9231)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marce_virginia1/)
-
 <br>
-
-![Visitas](https://komarev.com/ghpvc/?username=marcela1306&label=Profile%20views&color=2a9d8f&style=flat)
 
 *"Muchas veces me puedo bloquear en código, pero es parte del proceso de crecimiento como junior." 🚀*
 
