@@ -9,7 +9,7 @@
 
 Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmente.  
 📫 **Escríbeme:** [agmarcela1301@gmail.com](mailto:agmarcela1301@gmail.com)  
-⚡ **Curiosidad nica:** Me encanta el cacao, pero el mondongo no es lo mío 😅
+⚡ **Curiosidad nica:** Me encanta el cacao, pero el mondongo no es lo mío
 
 ## 🚀 Proyectos Destacados
 
@@ -27,7 +27,7 @@ Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmen
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-*🌱 Próximos en mi lista: ¡Certificaciones profesionales!*
+*🌱 Próximos en mi lista: Certificaciones profesionales*
 
 ## 🤝 Conectemos
 
@@ -35,6 +35,6 @@ Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmen
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marce_virginia1/)
 <br>
 
-*"Muchas veces me puedo bloquear en código, pero es parte del proceso de crecimiento como junior." 🚀*
+*"Muchas veces me puedo bloquear en código, pero es parte del proceso de crecimiento como junior." *
 
 </div>
