@@ -46,12 +46,6 @@
   <a href="https://www.javascript.com/" title="JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="transition: transform 0.3s;"/>
   </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="transition: transform 0.3s;"/>
-  </a>
-  <a href="https://www.blender.org/" title="Blender">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" style="transition: transform 0.3s;"/>
-  </a>
   <a href="https://git-scm.com/" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="transition: transform 0.3s;"/>
   </a>
@@ -81,10 +75,9 @@
 </p>
 
 <p align="center" style="font-size:1.1em; color:#264653;">
-  <i>Siempre aprendiendo, siempre mejorando</i>
+  <i>Muchas veces me puedo bloquear en codigo pero es parte del proceso</i>
 </p>
 
 <!-- Hover effect: escala -->
 <style>
-img:hover { transform: scale(1.2) rotateY(10deg); }
 </style>
