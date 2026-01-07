@@ -3,8 +3,6 @@
 # ¡Hola, soy Marcela Álvarez! 👋
 ### Desarrolladora Full-Stack Junior | Estudiante de Ingeniería en Computación
 
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300">
 </p>
@@ -13,14 +11,12 @@ Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmen
 📫 **Escríbeme:** [agmarcela1301@gmail.com](mailto:agmarcela1301@gmail.com)  
 ⚡ **Curiosidad nica:** Me encanta el cacao, pero el mondongo no es lo mío 😅
 
----
-
 ## 🚀 Proyectos Destacados
 
 **🚜 Livestock Manager** *Sistema completo para gestionar ganado bovino: vacunas, partos y registros.* `Django` `SQL` `JavaScript`  
 > Aprendí a combinar lógica, diseño y bases de datos para crear soluciones prácticas. (¡Aún aprendiendo a optimizarlo!)
 
----
+
 
 ## 💻 Habilidades & Herramientas
 
@@ -32,17 +28,6 @@ Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmen
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 *🌱 Próximos en mi lista: ¡Certificaciones profesionales!*
-
----
-
-## 📊 Mis Estadísticas de GitHub
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela1306&layout=compact&theme=radical" width="400"> 
-<img src="https://github-readme-stats.vercel.app/api?username=marcela1306&show_icons=true&theme=radical" width="400">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcela1306&theme=radical" width="805">
-
----
 
 ## 🤝 Conectemos
 
