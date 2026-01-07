@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center" style="color:#264653; font-family:'Arial', sans-serif; font-size:1.1em;">
-   Actualmente explorando <strong style="color:#e76f51;">el mundo</strong> y <strong style="color:#e76f51;">de la tecnologia</strong>, y creciendo profesionalmente.<br>
+   Actualmente explorando <strong style="color:#e76f51;">el mundo</strong> <strong style="color:#e76f51;">de la tecnologia</strong>, y creciendo profesionalmente.<br>
   📫 Me escribís a: <a href="mailto:agmarcela1301@gmail.com" style="color:#e76f51;">agmarcela1301@gmail.com</a><br>
   ⚡ Curiosidad nica: me encanta el cacao, pero el mondongo no es lo mío 😅
 </p>
