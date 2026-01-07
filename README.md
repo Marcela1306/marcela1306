@@ -13,8 +13,8 @@ Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmen
 
 ## 🚀 Proyectos Destacados
 
-**🚜 Livestock Manager** *Sistema completo para gestionar ganado bovino: vacunas, partos y registros.* `Django` `SQL` `JavaScript`  
-> Aprendí a combinar lógica, diseño y bases de datos para crear soluciones prácticas. (¡Aún aprendiendo a optimizarlo!)
+**Livestock Manager** *Sistema completo para gestionar ganado bovino: vacunas, partos y registros.* `Django` `JavaScript`  
+**Cultivox** *Plataforma nicaragüense que conecta productores agrícolas con compradores y logística digitalmente* `Reat.js`
 
 
 
