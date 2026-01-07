@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" style="border-radius: 20px;">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300">
 </p>
 
 Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmente.  
@@ -37,21 +37,17 @@ Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmen
 
 ## 📊 Mis Estadísticas de GitHub
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela1306&layout=compact&theme=radical" height="150px"> | <img src="https://github-readme-stats.vercel.app/api?username=marcela1306&show_icons=true&theme=radical" height="150px"> |
-| :---: | :---: |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcela1306&layout=compact&theme=radical" width="400"> 
+<img src="https://github-readme-stats.vercel.app/api?username=marcela1306&show_icons=true&theme=radical" width="400">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcela1306&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcela1306&theme=radical" width="805">
 
 ---
 
 ## 🤝 Conectemos
 
-<a href="https://linkedin.com/in/marcela-álvarez-663ba9231" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/marce_virginia1/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcela-álvarez-663ba9231)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marce_virginia1/)
 
 <br>
 
