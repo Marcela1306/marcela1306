@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#264653; font-family:'Arial', sans-serif; font-size:1.6em;">
-  Desarrolladora Full-Stack | Estudiante de Ingeniería en Computación
+  Desarrolladora Full-Stack Junior | Estudiante de Ingeniería en Computación
 </h3>
 
 <p align="center" style="color:#264653; font-family:'Arial', sans-serif; font-size:1.1em;">
