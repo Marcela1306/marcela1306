@@ -8,7 +8,6 @@
 </p>
 
 Actualmente explorando y creciendo profesionalmente.  
-📫 **Escríbeme:** [agmarcela1301@gmail.com](mailto:agmarcela1301@gmail.com)  
 ⚡ **Curiosidad nica:** Me encanta el cacao, pero el mondongo no es lo mío
 
 ## 🚀 Proyectos Destacados
