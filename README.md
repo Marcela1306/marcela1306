@@ -1,13 +1,13 @@
 <div align="center">
 
 # ¡Hola, soy Marcela Álvarez! 👋
-### Desarrolladora Full-Stack Junior | Estudiante de Ingeniería en Computación
+###  Estudiante de Ingeniería en Computación
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300">
 </p>
 
-Actualmente explorando **el mundo de la tecnología** y creciendo profesionalmente.  
+Actualmente explorando y creciendo profesionalmente.  
 📫 **Escríbeme:** [agmarcela1301@gmail.com](mailto:agmarcela1301@gmail.com)  
 ⚡ **Curiosidad nica:** Me encanta el cacao, pero el mondongo no es lo mío
 
